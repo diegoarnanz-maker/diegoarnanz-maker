@@ -1,11 +1,6 @@
-<div align="center>
- <h1 align="center> Hi, I'm Diego 👋 </h1>
-</div>
+<h1 align="center">Hi, I'm Diego 👋</h1>
 
-
-
-
-## Abaout me:
+## About me:
 
 I'm a passionate web developer specializing in both frontend and backend technologies. I love creating interactive and user-friendly applications.
 
