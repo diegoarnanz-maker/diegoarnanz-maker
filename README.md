@@ -7,7 +7,7 @@
 I'm a passionate web developer specializing in both frontend and backend technologies. I love creating interactive and user-friendly applications.
 
 - 🔭 Fullstack developer
-- 🌱 I'm always learning!
 - 👯 I’m looking to collaborate on exciting web development projects or open-source contributions.
 - 💬 Ask me about Angular, Spring Boot, or any web development topic!
+- 🌱 I'm always learning!
 - 📫 How to reach me: [diegoarnanzlozano96@gmail.com](mailto:diegoarnanzlozano96@gmail.com)
