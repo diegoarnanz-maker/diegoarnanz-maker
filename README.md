@@ -5,6 +5,7 @@
 ## About me:
 
 I'm a passionate web developer specializing in both frontend and backend technologies. I love creating interactive and user-friendly applications.
+Linkedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 
 - 🔭 Fullstack developer
 - 👯 I’m looking to collaborate on exciting web development projects or open-source contributions.
