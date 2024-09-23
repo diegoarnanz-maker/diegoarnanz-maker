@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Diego 👋</h1>
 
-(https://github.com/diegoarnanz-maker/diegoarnanz-maker/raw/main/@diego-maker.jpg)
+![Mi Banner](https://raw.githubusercontent.com/tu-usuario/tu-repo/main/@diego-maker.jpg)
 
 ## About me:
 
