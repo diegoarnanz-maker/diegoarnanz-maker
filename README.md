@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Diego 👋</h1>
 
+![Descripción de la imagen](ruta/a/tu-imagen.jpg)
+
 ## About me:
 
 I'm a passionate web developer specializing in both frontend and backend technologies. I love creating interactive and user-friendly applications.
