@@ -12,6 +12,7 @@ I'm a passionate web developer specializing in both frontend and backend technol
 - 🌱 I'm always learning!
 - 📫 How to reach me: [diegoarnanzlozano96@gmail.com](mailto:diegoarnanzlozano96@gmail.com)
 
+<p>Portfolio: <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">Visit my Portfolio</a></p>
 <p>LinkedIn: <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">Visit my LinkedIn profile</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
