@@ -5,13 +5,14 @@
 ## About me:
 
 I'm a passionate web developer specializing in both frontend and backend technologies. I love creating interactive and user-friendly applications.
-Linkedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 
 - 🔭 Fullstack developer
 - 👯 I’m looking to collaborate on exciting web development projects or open-source contributions.
 - 💬 Ask me about Angular, Spring Boot, or any web development topic!
 - 🌱 I'm always learning!
 - 📫 How to reach me: [diegoarnanzlozano96@gmail.com](mailto:diegoarnanzlozano96@gmail.com)
+
+<p>LinkedIn: <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">Visit my LinkedIn profile</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -58,4 +59,3 @@ Linkedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 15px;"/> 
   </a>
 </p>
-
