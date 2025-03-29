@@ -34,6 +34,9 @@ I'm a passionate web developer with a special interest in backend development. I
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png?f=webp&w=512" alt="csharp" width="40" height="40"   style="margin-right: 15px;"/> 
   </a>
 
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40" style="margin-right: 15px;"/> 
+  </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 15px;"/> 
