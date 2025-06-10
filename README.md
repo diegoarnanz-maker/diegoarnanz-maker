@@ -12,8 +12,8 @@ I'm a passionate web developer with a special interest in backend development. I
 - 🌱 I'm always learning and improving my skills.
 - 📫 How to reach me: [diegoarnanzlozano96@gmail.com](mailto:diegoarnanzlozano96@gmail.com)
 
-<p>Portfolio: <a href="https://diegoarnanz-maker-portfolio.netlify.app/" target="_blank" rel="noreferrer">Visit my Portfolio</a></p>
-<p>LinkedIn: <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank" rel="noreferrer">Visit my LinkedIn profile</a></p>
+<p>Portfolio: <a href="[https://diegoarnanz-maker-portfolio.netlify.app/](https://portfolio.diego-maker.com/)" target="_blank" rel="noreferrer">Visit my Portfolio</a></p>
+<p>LinkedIn: <a href="[https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit](https://www.linkedin.com/in/diegodev96/)" target="_blank" rel="noreferrer">Visit my LinkedIn profile</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
