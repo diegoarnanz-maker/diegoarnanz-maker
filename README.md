@@ -11,7 +11,7 @@
 🚀 Fullstack Web Developer with a backend soul and an AI-driven mindset.  
 💡 I specialize in building scalable APIs and intelligent systems.  
 🔬 Currently exploring workflows with **LLMs**, **n8n**, and **Cursor**.  
-🎬 Creator of [**Indimetra**](https://portfolio.diego-maker.com/) — a smart platform for indie short films.  
+🎬 Creator of **Indimetra** — a smart platform for indie short films.
 💬 Let's talk about Spring Boot, .NET, Angular... or even agents and prompt engineering!  
 📫 Reach me at: [diegodev96@gmail.com](mailto:diegodev96@gmail.com)
 
