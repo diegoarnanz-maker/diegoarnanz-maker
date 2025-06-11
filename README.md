@@ -21,8 +21,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222831?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.diego-maker.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegodev96/)
-[![AI Assistant](https://img.shields.io/badge/AI%20Assistant-HuggingFace-orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/diegodev96/mi-asistente-personal)
-[![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegoarnanz-maker)
+[![AI Assistant](https://img.shields.io/badge/AI_Assistant-FF6C37?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/diegodev96/mi-asistente-personal)
 
 ---
 
