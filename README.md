@@ -40,7 +40,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution
 
 <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/diegoarnanz-maker/diegoarnanz-maker/output/github-contribution-grid-snake.svg" />
 
