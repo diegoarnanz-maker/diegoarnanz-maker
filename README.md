@@ -1,27 +1,32 @@
 <h1 align="center">Hi, I'm Diego 👋</h1>
 
-![Mi Banner](https://raw.githubusercontent.com/diegoarnanz-maker/diegoarnanz-maker/main/@diego-maker.jpg)
-
-## About me:
-
-I'm a Fullstack Web Developer with a strong backend focus and a growing specialization in applied AI. I enjoy building scalable APIs, integrating intelligent agents, and crafting clean, responsive user interfaces.
-
-- 🔭 Currently working on fullstack projects with **Spring Boot**, **.NET** and **Angular**
-- 🤖 Passionate about **AI workflows**, **LLMs**, and automation using tools like **n8n** and **Cursor**
-- 👨‍💻 Creator of **Indimetra**, a short film platform with modular architecture, JWT auth, and intelligent backend
-- 📚 Always learning and improving — especially in intelligent automation and conversational agents
-- 💬 Ask me about backend design, web architecture, or applied AI in real-world apps
-- 📫 Reach me at: [diegodev96@gmail.com](mailto:diegodev96@gmail.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diegoarnanz-maker/diegoarnanz-maker/main/@diego-maker%20(1).jpg" alt="Banner Diego" width="100%" />
+</p>
 
 ---
 
-📁 **Portfolio**: [Visit my Portfolio](https://portfolio.diego-maker.com/)  
-🤖 **AI Assistant**: [Test my Conversational Agent](https://huggingface.co/spaces/diegodev96/mi-asistente-personal)  
-🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/diegodev96/)  
+## 🧠 About me
+
+🚀 Fullstack Web Developer with a backend soul and an AI-driven mindset.  
+💡 I specialize in building scalable APIs and intelligent systems.  
+🔬 Currently exploring workflows with **LLMs**, **n8n**, and **Cursor**.  
+🎬 Creator of [**Indimetra**](https://portfolio.diego-maker.com/) — a smart platform for indie short films.  
+💬 Let's talk about Spring Boot, .NET, Angular... or even agents and prompt engineering!  
+📫 Reach me at: [diegodev96@gmail.com](mailto:diegodev96@gmail.com)
 
 ---
 
-## Technologies 💻
+## 🌍 Find me online
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-222831?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.diego-maker.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegodev96/)
+[![AI Assistant](https://img.shields.io/badge/AI%20Assistant-HuggingFace-orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/diegodev96/mi-asistente-personal)
+[![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegoarnanz-maker)
+
+---
+
+## ⚙️ Tech Stack
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -33,3 +38,12 @@ I'm a Fullstack Web Developer with a strong backend focus and a growing speciali
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diegoarnanz-maker/diegoarnanz-maker/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
