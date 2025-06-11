@@ -6,32 +6,34 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake (light)
+      - name: Generate light snake
         uses: Platane/snk@v3
         with:
           github_user_name: diegoarnanz-maker
           outputs: |
             dist/github-contribution-grid-snake.svg
+          palette: "#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127"  # Colores oficiales GitHub
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate snake (dark)
+      - name: Generate dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: diegoarnanz-maker
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
-          palette: github-dark
+          palette: "#161b22,#0e4429,#006d32,#26a641,#39d353"  # Fondo oscuro, casillas verdes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy both to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
