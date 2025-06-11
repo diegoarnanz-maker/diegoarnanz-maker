@@ -4,66 +4,32 @@
 
 ## About me:
 
-I'm a passionate web developer with a special interest in backend development. I enjoy building robust APIs and scalable systems, but also love crafting clean and responsive user interfaces.
+I'm a Fullstack Web Developer with a strong backend focus and a growing specialization in applied AI. I enjoy building scalable APIs, integrating intelligent agents, and crafting clean, responsive user interfaces.
 
-- 🔭 Fullstack developer (with a backend soul)
-- 👯 I'm looking to collaborate on exciting web development projects or open-source contributions.
-- 💬 Ask me about Spring Boot, .NET, Angular or any web development topic!
-- 🌱 I'm always learning and improving my skills.
-- 📫 How to reach me: [diegoarnanzlozano96@gmail.com](mailto:diegoarnanzlozano96@gmail.com)
+- 🔭 Currently working on fullstack projects with **Spring Boot**, **.NET** and **Angular**
+- 🤖 Passionate about **AI workflows**, **LLMs**, and automation using tools like **n8n** and **Cursor**
+- 👨‍💻 Creator of **Indimetra**, a short film platform with modular architecture, JWT auth, and intelligent backend
+- 📚 Always learning and improving — especially in intelligent automation and conversational agents
+- 💬 Ask me about backend design, web architecture, or applied AI in real-world apps
+- 📫 Reach me at: [diegodev96@gmail.com](mailto:diegodev96@gmail.com)
 
-<p>Portfolio: <a href="https://portfolio.diego-maker.com/" target="_blank" rel="noreferrer">Visit my Portfolio</a></p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/diegodev96/" target="_blank" rel="noreferrer">Visit my LinkedIn profile</a></p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+📁 **Portfolio**: [Visit my Portfolio](https://portfolio.diego-maker.com/)  
+🤖 **AI Assistant**: [Test my Conversational Agent](https://huggingface.co/spaces/diegodev96/mi-asistente-personal)  
+🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/diegodev96/)  
 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right: 15px;"/> 
-  </a>
+---
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 15px;"/> 
-  </a> 
+## Technologies 💻
 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40" style="margin-right: 15px;"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png?f=webp&w=512" alt="csharp" width="40" height="40"   style="margin-right: 15px;"/> 
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40" style="margin-right: 15px;"/> 
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 15px;"/> 
-  </a> 
-  
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 15px;"/> 
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 15px;"/> 
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 15px;"/> 
-  </a> 
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 15px;"/> 
-  </a> 
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 15px;"/> 
-  </a> 
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 15px;"/> 
-  </a> 
-
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTQ5LjIgMjAuN2MtMi4xLTIuMS01LjUtMi4xLTcuNiAwTDI1LjcgMzYuNmwtNC40LTQuNEwzNS4xIDE4YzIuMS0yLjEgMi4xLTUuNSAwLTcuNi0yLjEtMi4xLTUuNS0yLjEtNy42IDBMNy43IDMwLjFjLTIuMSAyLjEtMi4xIDUuNSAwIDcuNmwzMy43IDMzLjdhNS40IDUuNCAwIDAgMCA3LjYgMGMwIC0yLjEtMi4xLTUuNS00LjItNy42TDI2LjcgMzkuM2w0LjQtNC40TDUwLjkgMjguMWMyLjEtMi4xIDIuMS01LjUgMC03LjZsLTEuNy0xLjciLz48L3N2Zz4=)
+![n8n](https://img.shields.io/badge/n8n-EC4A3F?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
