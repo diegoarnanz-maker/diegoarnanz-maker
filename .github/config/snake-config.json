@@ -1,0 +1,12 @@
+{
+  "light": {
+    "color_snake": "#4c1",
+    "color_dots": ["#ebedf0", "#c6e48b", "#7bc96f", "#239a3b", "#196127"],
+    "background": "#ffffff"
+  },
+  "dark": {
+    "color_snake": "#00ffcc",
+    "color_dots": ["#000000", "#000000", "#000000", "#000000", "#000000"],
+    "background": "#0d1117"
+  }
+}
