@@ -3,14 +3,14 @@ name: Generate Snake Animation
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # Cada día a las 00:00 UTC
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake (Light Theme)
+      - name: Generate Light Snake
         uses: Platane/snk@v3
         with:
           github_user_name: diegoarnanz-maker
@@ -19,17 +19,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Snake (Dark Theme)
+      - name: Generate Dark Snake
         uses: Platane/snk@v3
         with:
           github_user_name: diegoarnanz-maker
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
-          # Opcionalmente puedes personalizar el color con un theme si usas uno que lo soporte
+          # Aquí definimos un fondo oscuro y color de serpiente claro
+          color_snake: '#F8F8F8'
+          color_dots: '#333333,#444444,#666666,#999999,#CCCCCC'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push both SVGs to output branch
+      - name: Push both snakes to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
